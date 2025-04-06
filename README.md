@@ -1,12 +1,6 @@
 # Cross-Referenced Israeli Streets and Statistical Areas
 
-This project provides a spatial dataset that cross-references **streets** and **statistical areas** in Israel. The dataset was created using publicly available data from the **Israel Central Bureau of Statistics (CBS)** and **OpenStreetMap**, and processed using **QGIS**. It can support spatial analysis, urban planning, and socio-economic research.
-
-## Contents
-
-- Spatial data (in Excel / shapefile format) linking street names to CBS statistical areas
-- Notes on methodology and data preparation
-- Attribution for data sources
+This project provides a spatial dataset that cross-references **streets** and **statistical areas** in Israel. The dataset was created using publicly available data from the **Israel Central Bureau of Statistics (CBS)** and **OpenStreetMap**, and processed using **QGIS**.
 
 ## Data Sources
 
@@ -21,18 +15,5 @@ This project provides a spatial dataset that cross-references **streets** and **
 
 ## Tools Used
 
-- [QGIS](https://qgis.org/) – Open-source Geographic Information System used for spatial analysis and linking data layers
-
-## License
-
-This project is licensed under the **Open Database License (ODbL) v1.0**.  
-You are free to:
-- Share: copy, distribute, and use the database
-- Create: produce works from the database
-- Adapt: modify, transform, and build upon the database
-
-**As long as you:**
-- Attribute the sources (CBS, OpenStreetMap contributors, and this project)
-- Distribute any derived databases under the same ODbL license
-
-See the full license text in the `LICENSE` file.
+- QGIS
+- Python
