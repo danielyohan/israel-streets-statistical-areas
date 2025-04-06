@@ -1,6 +1,6 @@
 # Cross-Referenced Israeli Streets and Statistical Areas
 
-This project provides a spatial dataset that cross-references streets and socio-economic rank according to CBS statistical areas in Israel. The dataset was created using publicly available data from the **Israel Central Bureau of Statistics (CBS)** and **OpenStreetMap**, and processed using **QGIS**.
+This project provides a CSV that cross-references streets and socio-economic rank according to CBS statistical areas in Israel. The dataset was created using publicly available data from the **Israel Central Bureau of Statistics (CBS)** and **OpenStreetMap**, and processed using **QGIS**.
 
 ## Data Sources
 
